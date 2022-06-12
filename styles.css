@@ -1,0 +1,44 @@
+body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: gainsboro;
+}
+
+
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: blue;
+}
+
+table {
+    border: 2px solid blue;
+    margin-right: auto;
+    margin-left: auto;
+    width: 850px
+}
+
+.code {
+    font-family: monospace;
+    background-color:white;
+}
+
+thead {
+    background-color: aqua;
+}
+
+td {
+    border-top: 1px solid  blue;
+
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-top: 300px;
+    margin-right: auto;
+    width: 50%;
+}
